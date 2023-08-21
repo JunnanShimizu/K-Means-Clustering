@@ -1,2 +1,2 @@
 # K-Means-Clustering
-Project 5 of CS252 - Mathematical Data Analysis and Visualization. 
+Project 5 of CS252 - Mathematical Data Analysis and Visualization. In this project, you will implement the K-means clustering algorithm for clustering data (performing unsupervised learning). You will test and plot K-means clusters with a simple 2D dataset, then use the algorithm to compress the colorspace of images and segment regions with similar colors. You will explore the effect of centroid initialization and the quality of clustering, as well as detecting the number of clusters in a dataset.
